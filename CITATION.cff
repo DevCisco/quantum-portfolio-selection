@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Quantum portfolio selection: penalty vs constraint-native QAOA on rolling Euro Stoxx 50 windows"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Pisaturo
+    given-names: Francesco
+    orcid: "https://orcid.org/0009-0002-5963-8036"
+license: MIT
+repository-code: "https://github.com/<your-username>/quantum-portfolio-selection"

@@ -1,0 +1,13 @@
+ticker,name,group,currency,include
+GC=F,Gold,Precious metals,USD,1
+SI=F,Silver,Precious metals,USD,1
+PL=F,Platinum,Precious metals,USD,1
+PA=F,Palladium,Precious metals,USD,1
+HG=F,Copper,Industrial metals,USD,1
+CL=F,Crude oil (WTI),Energy,USD,1
+NG=F,Natural gas (Henry Hub),Energy,USD,1
+SB=F,Sugar No. 11,Agriculture,USD,1
+KC=F,Coffee,Agriculture,USD,0
+ZW=F,Wheat,Agriculture,USD,0
+ZC=F,Corn,Agriculture,USD,0
+SRUUF,Sprott Physical Uranium Trust (uranium proxy; history from mid-2021 only),Energy,USD,0

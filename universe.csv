@@ -1,0 +1,21 @@
+ticker,name,sector,country
+ASML.AS,ASML Holding,Information Technology,NL
+SAP.DE,SAP,Information Technology,DE
+SIE.DE,Siemens,Industrials,DE
+SU.PA,Schneider Electric,Industrials,FR
+AIR.PA,Airbus,Industrials,FR
+SAN.MC,Banco Santander,Financials,ES
+BBVA.MC,BBVA,Financials,ES
+UCG.MI,UniCredit,Financials,IT
+ISP.MI,Intesa Sanpaolo,Financials,IT
+ALV.DE,Allianz,Financials,DE
+CS.PA,AXA,Financials,FR
+TTE.PA,TotalEnergies,Energy,FR
+IBE.MC,Iberdrola,Utilities,ES
+ENEL.MI,Enel,Utilities,IT
+MC.PA,LVMH,Consumer Discretionary,FR
+ITX.MC,Inditex,Consumer Discretionary,ES
+OR.PA,L'Oreal,Consumer Staples,FR
+SAN.PA,Sanofi,Health Care,FR
+DTE.DE,Deutsche Telekom,Communication Services,DE
+AI.PA,Air Liquide,Materials,FR

@@ -1,0 +1,22 @@
+{
+ "summary": {
+  "p_opt": {
+   "pen_auto": 0.0058,
+   "pen_tight": 0.0107,
+   "xy_basis": 0.0072,
+   "xy_dicke": 0.035
+  },
+  "p_feas": {
+   "pen_auto": 0.552,
+   "pen_tight": 0.5006,
+   "xy_basis": 1.0,
+   "xy_dicke": 1.0
+  },
+  "ratio_cond": {
+   "pen_auto": 0.5993,
+   "pen_tight": 0.6465,
+   "xy_basis": 0.6819,
+   "xy_dicke": 0.7764
+  }
+ }
+}
